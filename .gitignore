@@ -112,6 +112,15 @@ ipch/
 *.VC.db
 *.VC.VC.opendb
 
+*.opensdf
+*.db
+*.opendb
+*.suo
+*.exe
+!CreateMain.exe
+/UnitTester/Defines.h
+.vs
+
 # Visual Studio profiler
 *.psess
 *.vsp
